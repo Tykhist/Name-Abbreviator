@@ -1,4 +1,4 @@
-name = input('What's your name?: )
+name = input('What\'s your name?: )
 pieces = name.split()
 
 if len(pieces) == 3:
